@@ -1,0 +1,11 @@
+Library around go weiqui baduk for analysis and game play
+
+`test_all` shows board.py usage.
+
+
+
+TODO:
+-----
+- Scoring
+- GTP
+- Helper functions on board.py
